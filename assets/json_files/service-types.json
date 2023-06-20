@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Essay Writing Service",
+    "rate": 0
+  },
+  {
+    "id": 2,
+    "name": "Coursework",
+    "rate": 0
+  },
+  {
+    "id": 3,
+    "name": "Term Paper Writing",
+    "rate": 0
+  },
+  {
+    "id": 4,
+    "name": "Research Paper",
+    "rate": 0
+  },
+  {
+    "id": 5,
+    "name": "Power Point Presentation",
+    "rate": -20
+  },
+  {
+    "id": 6,
+    "name": "Discussion Post Writing",
+    "rate": 0
+  },
+  {
+    "id": 7,
+    "name": "Discussion Board Response",
+    "rate": 0
+  },
+  {
+    "id": 8,
+    "name": "Discussion Board",
+    "rate": 0
+  },
+  {
+    "id": 9,
+    "name": "Classwork",
+    "rate": 0
+  },
+  {
+    "id": 10,
+    "name": "Annotated Bibliography",
+    "rate": 0
+  },
+  {
+    "id": 11,
+    "name": "Report Writing",
+    "rate": 10
+  },
+  {
+    "id": 12,
+    "name": "Capstone Project",
+    "rate": 0
+  },
+  {
+    "id": 13,
+    "name": "Admission Essay",
+    "rate": 0
+  },
+  {
+    "id": 14,
+    "name": "Personal Statement",
+    "rate": 0
+  },
+  {
+    "id": 15,
+    "name": "College Essay",
+    "rate": 0
+  },
+  {
+    "id": 16,
+    "name": "Speech Writing",
+    "rate": 0
+  },
+  {
+    "id": 17,
+    "name": "Book Review",
+    "rate": 0
+  },
+  {
+    "id": 18,
+    "name": "Movie Review",
+    "rate": 0
+  },
+  {
+    "id": 19,
+    "name": "Article Review/Critique",
+    "rate": 0
+  },
+  {
+    "id": 20,
+    "name": "Thesis Writing",
+    "rate": 10
+  },
+  {
+    "id": 21,
+    "name": "Dissertation Writing Service",
+    "rate": 15
+  },
+  {
+    "id": 22,
+    "name": "Dissertation - CHAPTER 1 Writing",
+    "rate": 0
+  },
+  {
+    "id": 23,
+    "name": "Dissertation - CHAPTER 2 Literature Review Writing",
+    "rate": 5
+  },
+  {
+    "id": 24,
+    "name": "Dissertation - CHAPTER 3 Methodology",
+    "rate": 0
+  },
+  {
+    "id": 25,
+    "name": "Dissertation - CHAPTER 4 Results",
+    "rate": 5
+  },
+  {
+    "id": 26,
+    "name": "Dissertation - CHAPTER 5 Discussion",
+    "rate": 5
+  },
+  {
+    "id": 27,
+    "name": "Case Study Writing",
+    "rate": 5
+  },
+  {
+    "id": 28,
+    "name": "Create Brochure",
+    "rate": 0
+  }
+]

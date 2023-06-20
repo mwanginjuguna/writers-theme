@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "APA 6TH Edition",
+    "rate": 0
+  },
+  {
+    "id": 2,
+    "name": "APA 7TH Edition",
+    "rate": 0
+  },
+  {
+    "id": 3,
+    "name": "APA",
+    "rate": 0
+  },
+  {
+    "id": 4,
+    "name": "MLA 8TH Edition",
+    "rate": 0
+  },
+  {
+    "id": 5,
+    "name": "MLA 9TH Edition",
+    "rate": 0
+  },
+  {
+    "id": 6,
+    "name": "Havard Referencing Style",
+    "rate": 0
+  },
+  {
+    "id": 7,
+    "name": "Chicago/Turabian Style",
+    "rate": 0
+  },
+  {
+    "id": 8,
+    "name": "Chicago 17th Edition",
+    "rate": 0
+  },
+  {
+    "id": 9,
+    "name": "Vancouver",
+    "rate": 0
+  },
+  {
+    "id": 10,
+    "name": "OSCOLA",
+    "rate": 0
+  }
+]

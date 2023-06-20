@@ -1,0 +1,32 @@
+[
+  {
+    "id": 2,
+    "name": "USD",
+    "rate": 1
+  },
+  {
+    "id": 4,
+    "name": "GBP",
+    "rate": 1.21
+  },
+  {
+    "id": 5,
+    "name": "CAD",
+    "rate": 0.75
+  },
+  {
+    "id": 8,
+    "name": "AUD",
+    "rate": 0.69
+  },
+  {
+    "id": 9,
+    "name": "CNY",
+    "rate": 0.15
+  },
+  {
+    "id": 10,
+    "name": "EUR",
+    "rate": 1.06
+  }
+]

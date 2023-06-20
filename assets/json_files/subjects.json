@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "name": "Arts",
+    "rate": 0
+  },
+  {
+    "id": 2,
+    "name": "Accounting",
+    "rate": 0
+  },
+  {
+    "id": 3,
+    "name": "Business",
+    "rate": 0
+  },
+  {
+    "id": 4,
+    "name": "Business Law",
+    "rate": 0
+  },
+  {
+    "id": 5,
+    "name": "Biology",
+    "rate": 10
+  },
+  {
+    "id": 6,
+    "name": "Calculus",
+    "rate": 25
+  },
+  {
+    "id": 7,
+    "name": "Communications",
+    "rate": 0
+  },
+  {
+    "id": 8,
+    "name": "Chemistry",
+    "rate": 15
+  },
+  {
+    "id": 9,
+    "name": "Criminal Justice",
+    "rate": 0
+  },
+  {
+    "id": 10,
+    "name": "Creative Writing",
+    "rate": 0
+  },
+  {
+    "id": 11,
+    "name": "Computer Science",
+    "rate": 30
+  },
+  {
+    "id": 12,
+    "name": "Economics",
+    "rate": 5
+  },
+  {
+    "id": 13,
+    "name": "Engineering",
+    "rate": 35
+  },
+  {
+    "id": 14,
+    "name": "Entrepreneurship",
+    "rate": 0
+  },
+  {
+    "id": 15,
+    "name": "Environmental Science",
+    "rate": 10
+  },
+  {
+    "id": 16,
+    "name": "Finance",
+    "rate": 5
+  },
+  {
+    "id": 17,
+    "name": "Financial Accounting",
+    "rate": 5
+  },
+  {
+    "id": 18,
+    "name": "Genetics",
+    "rate": 15
+  },
+  {
+    "id": 19,
+    "name": "Geography",
+    "rate": 5
+  },
+  {
+    "id": 20,
+    "name": "Geology",
+    "rate": 0
+  },
+  {
+    "id": 21,
+    "name": "Government",
+    "rate": 0
+  },
+  {
+    "id": 22,
+    "name": "Health Science",
+    "rate": 0
+  },
+  {
+    "id": 23,
+    "name": "History",
+    "rate": 0
+  },
+  {
+    "id": 24,
+    "name": "Human Resource Management",
+    "rate": 0
+  },
+  {
+    "id": 25,
+    "name": "Humanities",
+    "rate": 0
+  },
+  {
+    "id": 26,
+    "name": "Information Security",
+    "rate": 5
+  },
+  {
+    "id": 27,
+    "name": "Java programming",
+    "rate": 30
+  },
+  {
+    "id": 28,
+    "name": "Law",
+    "rate": 5
+  },
+  {
+    "id": 29,
+    "name": "Literature",
+    "rate": 0
+  },
+  {
+    "id": 30,
+    "name": "Management",
+    "rate": 0
+  },
+  {
+    "id": 31,
+    "name": "Marketing",
+    "rate": 0
+  },
+  {
+    "id": 32,
+    "name": "Math",
+    "rate": 20
+  },
+  {
+    "id": 33,
+    "name": "Mechanical Engineering",
+    "rate": 15
+  },
+  {
+    "id": 34,
+    "name": "Music",
+    "rate": 0
+  },
+  {
+    "id": 35,
+    "name": "Nursing",
+    "rate": 0
+  },
+  {
+    "id": 36,
+    "name": "Operation Management",
+    "rate": 0
+  },
+  {
+    "id": 37,
+    "name": "Philosophy",
+    "rate": 0
+  },
+  {
+    "id": 38,
+    "name": "Physics",
+    "rate": 5
+  },
+  {
+    "id": 39,
+    "name": "Political Science",
+    "rate": 0
+  },
+  {
+    "id": 40,
+    "name": "Project Management",
+    "rate": 0
+  },
+  {
+    "id": 41,
+    "name": "Psychology",
+    "rate": 0
+  },
+  {
+    "id": 42,
+    "name": "Programming",
+    "rate": 15
+  },
+  {
+    "id": 43,
+    "name": "Religious Studies",
+    "rate": 0
+  },
+  {
+    "id": 44,
+    "name": "Social Sciences",
+    "rate": 0
+  },
+  {
+    "id": 45,
+    "name": "Sociology",
+    "rate": 0
+  },
+  {
+    "id": 46,
+    "name": "Software Engineering",
+    "rate": 15
+  },
+  {
+    "id": 47,
+    "name": "Statistics and Probability",
+    "rate": 10
+  },
+  {
+    "id": 48,
+    "name": "Supply Chain Management",
+    "rate": 0
+  },
+  {
+    "id": 49,
+    "name": "US History",
+    "rate": 0
+  },
+  {
+    "id": 50,
+    "name": "World History",
+    "rate": 0
+  },
+  {
+    "id": 51,
+    "name": "Writing",
+    "rate": 0
+  },
+  {
+    "id": 52,
+    "name": "Others",
+    "rate": 0
+  }
+]

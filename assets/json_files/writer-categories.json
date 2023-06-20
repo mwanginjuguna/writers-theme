@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Best Available",
+    "rate": 0
+  },
+  {
+    "id": 2,
+    "name": "Intermediate",
+    "rate": 5
+  },
+  {
+    "id": 3,
+    "name": "Expert",
+    "rate": 15
+  },
+  {
+    "id": 4,
+    "name": "Specialist",
+    "rate": 35
+  }
+]

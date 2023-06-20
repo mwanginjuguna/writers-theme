@@ -1,0 +1,37 @@
+[
+  {
+    "id": 6,
+    "name": "Personal",
+    "rate": 5
+  },
+  {
+    "id": 7,
+    "name": "Professional",
+    "rate": 15
+  },
+  {
+    "id": 1,
+    "name": "High School",
+    "rate": 0
+  },
+  {
+    "id": 2,
+    "name": "College",
+    "rate": 0
+  },
+  {
+    "id": 3,
+    "name": "Undergraduate/University",
+    "rate": 10
+  },
+  {
+    "id": 4,
+    "name": "Masters",
+    "rate": 20
+  },
+  {
+    "id": 5,
+    "name": "Ph.D.",
+    "rate": 30
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Double Spacing",
+    "rate": 0
+  },
+  {
+    "id": 2,
+    "name": "Single Spacing",
+    "rate": 200
+  },
+  {
+    "id": 3,
+    "name": "1.15 Spacing",
+    "rate": 85
+  },
+  {
+    "id": 4,
+    "name": "1.5 Line Spacing",
+    "rate": 50
+  }
+]
