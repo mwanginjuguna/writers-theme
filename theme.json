@@ -158,6 +158,42 @@
                 "border": {
                     "radius": "14px"
                 }
+            },
+            "h2": {
+                "spacing": {
+                    "padding": {
+                        "top": "2.5rem",
+                        "right": "0px",
+                        "bottom": "0.2rem",
+                        "left": "0px"
+                    }
+                }
+            }
+        },
+        "blocks": {
+            "core/group": {
+                "spacing": {
+                    "padding": {
+                        "top": "0.1rem",
+                        "right": "0px",
+                        "bottom": "0.1rem",
+                        "left": "0px"
+                    }
+                }
+            },
+            "core/heading": {
+                "elements": {
+                    "h2": {
+                        "spacing": {
+                            "margin": {
+                                "top": "0.9rem",
+                                "right": "0px",
+                                "bottom": "0.2rem",
+                                "left": "0px"
+                            }
+                        }
+                    }
+                }
             }
         }
     }
